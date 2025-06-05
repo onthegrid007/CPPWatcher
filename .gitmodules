@@ -1,0 +1,3 @@
+[submodule "vendor/FileUtilities"]
+	path = vendor/FileUtilities
+	url = https://github.com/onthegrid007/FileUtilities
